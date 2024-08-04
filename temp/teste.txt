@@ -1,0 +1,1 @@
+Este arquivo não deve ir para o git
